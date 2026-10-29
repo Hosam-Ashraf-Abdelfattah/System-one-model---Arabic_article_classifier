@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+venv/
+env/
+ENV/
+.env
+
+# Data & Heavy Assets
+data/
+checkpoints/
+
+# System & Hardware Specs / Local Notes
+labtop_HW_specs.txt
+LinkedIn_Model_Launch_Post.md
+Hugging_Face_Model_Card_Draft.md
+ Hugging_Face_Model_Card_Draft.md  
+ labtop_HW_specs.txt 
+'Claude-بناء نموذج لغة صغير من الصفر-20261023-1421.md'
+*.save
+"Claude-\330\250\331\206\330\247\330\241 \331\206\331\205\331\210\330\260\330\254 \331\204\330\272\330\251 \330\265\330\272\331\212\330\261 \331\205\331\206 \330\247\331\204\330\265\331\201\330\261-20261023-1421.md"
+	new file:   Hugging_Face_Model_Card_Draft.md
+
+# Vim swap files
+*.swp
+.*.swp
+*.swo
+
+# Test & Evaluation Scripts (Internal Local Testing)
+test_*.py
+shortcut_test.py
+check_gpu.py
+explore_data.py
+show_errors.py*
+three_heads_demo.py
+header_analysis.py
+measure_tokens.py
+calibrate.py
+final_test.py
